@@ -15,8 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shubh3005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
